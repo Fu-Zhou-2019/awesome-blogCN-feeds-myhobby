@@ -21,13 +21,14 @@
 [在路上](https://zhangliliang.github.io/) | https://zhangliliang.github.io/atom.xml 
 [Alvin's Blog](https://alvinzhu.xyz/)|https://alvinzhu.xyz/feed
 [美团技术团队](https://tech.meituan.com/)|https://tech.meituan.com/atom.xml
+[阮一峰的网络日志](https://www.ruanyifeng.com/blog/)|https://www.ruanyifeng.com/blog/atom.xml
 
 
 ## 非计算机相关的独立博客
 
 博客地址 | RSS地址
 ----- | -----
-|    
+[线代启示录](https://ccjou.wordpress.com/)|https://ccjou.wordpress.com/feed/    
 
 ## 感谢
 
