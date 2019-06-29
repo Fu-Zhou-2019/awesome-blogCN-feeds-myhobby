@@ -22,13 +22,45 @@
 [Alvin's Blog](https://alvinzhu.xyz/)|https://alvinzhu.xyz/feed
 [美团技术团队](https://tech.meituan.com/)|https://tech.meituan.com/atom.xml
 [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)|https://www.ruanyifeng.com/blog/atom.xml
+[FengJian's Blog](https://fengjian0106.github.io/)|https://fengjian0106.github.io/atom.xml
+[邓范鑫——致力于变革未来的智能技术](http://www.dengfanxin.cn/)|无
+[谭升的博客](https://face2ai.com/)|https://face2ai.com/atom.xml
+[冰蓝记录思考的地方](http://lanbing510.info/)|http://lanbing510.info/pages/atom.xml
+[赵丰](https://zhaofeng-shu33.github.io/)|无
+[Vonng](https://vonng.com/)|无
+[崔添翼 § 翼若垂天之云](http://cuitianyi.com/)|已停更
+[LemonC.me](http://lemonc.me/)|http://lemonc.me/feed
 
 
-## 非计算机相关的独立博客
+## 其他的独立博客
+
+### 杂
 
 博客地址 | RSS地址
 ----- | -----
-[线代启示录](https://ccjou.wordpress.com/)|https://ccjou.wordpress.com/feed/    
+[reuixiy](https://reuixiy.github.io/)|https://reuixiy.github.io/atom.xml
+[卢昌海个人主页](http://www.changhai.org/)|在更
+[学而时嘻之](http://www.geekonomics10000.com/)|已停更
+[阅微堂](http://zhiqiang.org/blog/)|http://zhiqiang.org/blog/feed
+[BYVoid](https://www.byvoid.com/zhs/)|https://www.byvoid.com/zhs/feed
+[平靖の天堂](https://blog.jing.do/)|需手机订阅或者邮箱订阅
+[木遥的窗子](http://blog.farmostwood.net/)|http://blog.farmostwood.net/feed
+
+### 物理学
+
+博客地址 | RSS地址
+----- | -----
+[弦乐四重奏](https://xianyuzhongzhi.wordpress.com/)|https://xianyuzhongzhi.wordpress.com/feed/
+[宇宙的心弦](https://www.physixfan.com/)|https://www.physixfan.com/feed/
+
+### 数学
+
+博客地址 | RSS地址
+----- | -----
+[Matrix67](http://www.matrix67.com/blog/)|已停更
+[考据癖](http://localhost-8080.com/)|已停更
+[fwjmath的相空间](https://fwjmath.wordpress.com/)|https://fwjmath.wordpress.com/feed/
+[aifreedom](https://aifreedom.com/)|https://aifreedom.com/feed
 
 ## 感谢
 
